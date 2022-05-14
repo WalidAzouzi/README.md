@@ -1,4 +1,4 @@
-# Hey there! I'm [Jason](https://jasontaylor.dev) 👋
+# Hey there! I'm [Walid](https://walidazouzi.dev) 👋
 <!-- <img src="wave.gif" width="24px"> -->
 ![walidazouzi](banner.png)
 
@@ -9,12 +9,12 @@
     <a href="https://jasontaylor.dev"><img src="https://img.shields.io/badge/-Blog-2D2B55?style=flat-square&logo=RSS&logoColor=white"/></a>
 </p>
 
-I'm a solution architect, trainer, mentor, and full stack developer with 20 years professional experience. Currently, I specialise in teaching and building enterprise applications using .NET, Angular, React, Vue.js, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
+I'm a solution architect, mentor, and full stack developer with 13 years professional experience. Currently, I specialise in building enterprise applications using .NET, Angular, Blazor, and Azure. I love a challenge and I'm skilled at progressing from a simple proposal into a well-defined, coded, and tested solution.
 
 ## GitHub Stats
 
 <a href="https://github.com/walidazouzi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walidazouzi&show_icons=true&theme=shades-of-purple&count_private=true" alt="walidazouzi's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi&theme=shades-of-purple&layout=compact" 
-    alt="walidazouzi GitHub Top Languages" />
+    alt="walida zouzi GitHub Top Languages" />
 </a>
