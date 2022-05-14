@@ -1,5 +1,5 @@
 # Hey there! I'm [Walid](https://walidazouzi.dev) 👋
-<!-- <img src="wave.gif" width="24px"> -->
+ <img src="wave.gif" width="24px">
 ![walidazouzi](banner.jpg)
 
 <p align="center">
