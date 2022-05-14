@@ -13,6 +13,7 @@ I'm a solution architect, mentor, and full stack developer with 13 years profess
 ## GitHub Stats
 
 <a href="https://github.com/walidazouzi">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=walidazouzi&show_icons=true&theme=shades-of-purple&count_private=true" alt="walidazouzi's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi&theme=shades-of-purple&layout=compact" 
+    alt="walidazouzi GitHub Top Languages" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=walidazouzi&show_icons=true&theme=shades-of-purple&count_private=true" alt="walidazouzi's GitHub Stats" />
 </a>
