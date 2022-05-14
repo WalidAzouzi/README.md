@@ -1,6 +1,6 @@
 # Hey there! I'm [Walid](https://walidazouzi.dev) 👋
 <!-- <img src="wave.gif" width="24px"> -->
-![walidazouzi](banner.png)
+![walidazouzi](banner.jpg)
 
 <p align="center">
     <a href="https://twitter.com/walidazouzi"><img src="https://img.shields.io/badge/-Twitter-2D2B55?style=flat-square&logo=twitter&logoColor=white"/></a>
