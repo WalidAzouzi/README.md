@@ -18,4 +18,4 @@ I'm a solution architect, mentor, and full stack developer with 13 years profess
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=walidazouzi&theme=shades-of-purple&count_private=true" alt="walidazouzi's GitHub Stats"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalidAzouzi&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
