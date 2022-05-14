@@ -17,3 +17,4 @@ I'm a solution architect, mentor, and full stack developer with 13 years profess
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidazouzi&theme=shades-of-purple&count_private=true&layout=compact" 
     alt="walidazouzi GitHub Top Languages" />
 </a>
+https://github-readme-streak-stats.herokuapp.com/?user=walidazouzi
